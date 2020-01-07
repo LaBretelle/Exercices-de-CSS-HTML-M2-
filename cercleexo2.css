@@ -1,0 +1,10 @@
+#cercle {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-inline-color: black;
+    background: white;
+}
+.flotte {float: right;}
